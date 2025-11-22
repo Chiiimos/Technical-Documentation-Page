@@ -8,6 +8,13 @@ body{
 .TOOLS{
     margin-top: -15px;
 }
+.TITLE{
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 4px;
+    margin-right: 100px;
+    text-align: center;
+}
 #navbar{
     width: 300px;
     background-color: #f4f4f4;
